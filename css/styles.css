@@ -1,0 +1,21 @@
+/* Global */
+* {
+  box-sizing: border-box;
+}
+/*new*/
+/*also new*/
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/*Container*/
+.container {
+  width: 100%;
+  max-width: 1160px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
