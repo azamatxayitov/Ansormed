@@ -45,6 +45,7 @@ body {
 .site-header-container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 
@@ -64,7 +65,7 @@ body {
 }
 
 
-.site-logo:hover {
+.site-logo {
   color: #de2e54;
 }
 
@@ -138,7 +139,7 @@ body {
 
 .sitenav-site-footer .sitenav-link:active {
   color: #fff;
- }
+}
 
 
 /* Main-link */
@@ -321,26 +322,26 @@ body {
   font-family: "Open Sans Condensed", "Open Sans", "Arial", sans-serif;
   background-color: #0eb4c1;
   color: #fff;
- }
+}
 
 
- .cta-heading {
+.cta-heading {
   margin-top: 0;
   margin-bottom: 40px;
   text-align: center;
- }
+}
 
 
- .cta-links {
+.cta-links {
   display: flex;
   justify-content: center;
   align-items: center;
- }
+}
 
 
- .cta-links-item:not(:last-child) {
+.cta-links-item:not(:last-child) {
   margin-right: 40px;
- }
+}
 
 /* SiteFooter */
 .site-footer {
